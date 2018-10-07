@@ -1,22 +1,25 @@
 {
-    "name": "zonokai",
-    "displayName": "Zonokai",
-    "description": "",
-    "version": "0.0.1",
-    "publisher": "ZehCnaS34",
-    "engines": {
-        "vscode": "^1.27.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Zonokai",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Zonokai-color-theme.json"
-            }
-        ]
-    }
+  "name": "zonokai",
+  "displayName": "Zonokai",
+  "description": "",
+  "version": "0.0.1",
+  "publisher": "ZehCnaS34",
+  "repository": {
+    "url": "https://github.com/ZehCnaS34/zonokai-vscode"
+  },
+  "engines": {
+    "vscode": "^1.27.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Zonokai",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Zonokai-color-theme.json"
+      }
+    ]
+  }
 }
