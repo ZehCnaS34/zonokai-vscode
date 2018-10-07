@@ -1,2 +1,3 @@
 # Zonokai
 
+![preview](./preview.png)
