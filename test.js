@@ -37,5 +37,8 @@ class Console extends Awesome {
   }
   get hi() {
     console.log("hi");
+    let a = "awesome";
+    a();
+    awesome.log();
   }
 }
