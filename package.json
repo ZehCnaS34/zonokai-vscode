@@ -2,7 +2,7 @@
   "name": "zonokai",
   "displayName": "Zonokai",
   "description": "",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "publisher": "ZehCnaS34",
   "repository": {
     "url": "https://github.com/ZehCnaS34/zonokai-vscode"
@@ -13,6 +13,11 @@
   "categories": [
     "Themes"
   ],
+  "icon": "images/zk.png",
+  "galleryBanner": {
+    "color": "#011827",
+    "theme": "dark"
+  },
   "contributes": {
     "themes": [
       {
